@@ -1,4 +1,5 @@
 #abastracao e a forma de organizar as informações pelas coisas principais
+
 from abc import ABC, abstractmethod
 
 class Pagamento(ABC):
